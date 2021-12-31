@@ -9,9 +9,9 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
-    <img src="https://img.shields.io/badge/springboot-5.x-lightgrey.svg"/>
+    <img src="https://img.shields.io/badge/spring-5.x-lightgrey.svg"/>
     <img src="https://img.shields.io/badge/mybatis-3.x-blue.svg"/>
-    <img src="https://img.shields.io/badge/vue-3.x-yellow.svg"/>
+    <img src="https://img.shields.io/badge/springMVC-3.x-yellow.svg"/>
 </p>
 
 ## 简介
@@ -33,7 +33,14 @@
 
 ## 缩略图
 
-![]()
+![](https://img2020.cnblogs.com/blog/588112/202112/588112-20211231232704302-875044148.png)
+![](https://img2020.cnblogs.com/blog/588112/202112/588112-20211231232726183-1713718153.png)
+![](https://img2020.cnblogs.com/blog/588112/202112/588112-20211231232710121-1840912862.png)
+![](https://img2020.cnblogs.com/blog/588112/202112/588112-20211231232738833-439014064.png)
+![](https://img2020.cnblogs.com/blog/588112/202112/588112-20211231232745306-621617734.png)
+![](https://img2020.cnblogs.com/blog/588112/202112/588112-20211231232751211-1099968142.png)
+![](https://img2020.cnblogs.com/blog/588112/202112/588112-20211231232758231-1499626457.png)
+![](https://img2020.cnblogs.com/blog/588112/202112/588112-20211231232804053-529137404.png)
 
 
 
